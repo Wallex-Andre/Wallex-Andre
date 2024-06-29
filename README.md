@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🌱 I'm currently studying Systems Development.<br><br>- 👨‍💻 All my projects are available at https://github.com/Wal-lex /IBM--DS-AMS.git<br><br>- 📫 How to contact me wallex.santos@etec.sp.gov.br and wallexandre2009@gmail.com</p>
+<p align="left">- 🌱 I'm currently studying Systems Development.<br><br>- 👨‍💻 All my projects are available at https://github.com/Wal-lex/IBM--DS-AMS.git<br><br>- 📫 How to contact me wallex.santos@etec.sp.gov.br and wallexandre2009@gmail.com </p>
 
 ###
 
