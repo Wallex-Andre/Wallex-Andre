@@ -1,27 +1,60 @@
-<h1 align="center">Olá sou Wallex!</h1>
-<h3 align="center">Um estudante de Desenvolvimento de Sistemas na Etec Zona Leste</h3>
-<div align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Wal-lex&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Wa-lex&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Wal-lex&show_icons=true" />
-</picture>
-</div>
-<br>
-<div  align="center" >
+<h2 align="left">Hello, I'm Wallex!</h2>
 
- 🌱 Atualmente estou estudando Desenvolvimento de Sistemas.
- 
-</div>
-<div align="center">
-  
- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Wal-lex /IBM--DS-AMS.git](https://github.com/Wal-lex/IBM--DS-AMS.git)
+###
 
- 📫 Como entrar em contato comigo **wallex.santos@etec.sp.gov.br e wallexandre2009@gmail.com**
+<p align="left">- 🌱 I'm currently studying Systems Development.<br><br>- 👨‍💻 All my projects are available at https://github.com/Wal-lex /IBM--DS-AMS.git<br><br>- 📫 How to contact me wallex.santos@etec.sp.gov.br and wallexandre2009@gmail.com</p>
+
+###
+
+<h2 align="left">My Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h2 align="left">My Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wal-lex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wal-lex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wal-lex&radius=16&theme=github-dark&area=true&order=5&custom_title=Wal-lex%20Contribution%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Social Midia</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/wyper_lex/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:wallexandre2009@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="wallex.santos@etec.sp.gov.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="+55 11 932344867" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
