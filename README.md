@@ -1,6 +1,3 @@
-<div style="display: inline-block;">
-<img width 100% src ="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240630T011948Z&X-Amz-Expires=300&X-Amz-Signature=7189ccb64d8f6a1e36209c0400f872de82f59c2742bb269e39fd0c3c162c3a4c&X-Amz-SignedHeaders=host&actor_id=166918034&key_id=0&repo_id=588181932" alt="Typing SVG" >
-<br>
 
 <h2 align="left">Hello, I'm Wallex!</h2>
 
