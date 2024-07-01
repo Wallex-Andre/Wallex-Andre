@@ -33,7 +33,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Wal-lex&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wal-lex&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wal-lex&radius=16&theme=github-dark&area=true&order=5&custom_title=Wal-lex%20Contribution%20Graph&hide_border=false&hide_title=false" height="274" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wal-lex&radius=16&theme=github-dark&area=true&order=5&custom_title=Wal-lex%20Contribution%20Graph&hide_border=false&hide_title=false" height="248" alt="activity-graph graph"  />
 </div>
 
 ###
