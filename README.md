@@ -1,7 +1,3 @@
-<div style="display: inline-block;">
-  <img width 100% src ="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/?rdt=60033" >
-<br>
-
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Hello,+I'm+Wallex!;I+am+15+years+old;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
