@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-  <img width 100% src ="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/?rdt=60033" alt="Typing SVG" >
+  <img width 100% src ="https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/?rdt=60033" >
 <br>
 
 <div align="left">
