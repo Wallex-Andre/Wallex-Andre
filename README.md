@@ -47,7 +47,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Obrigado+pela+atenção!" alt="Typing SVG">
 
 ###
-
-<img src="https://raw.githubusercontent.com/Wal-lex/Wal-lex/output/snake.svg" alt="Snake animation" />
-
-###
