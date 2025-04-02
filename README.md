@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Obrigado+pela+atenção!" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Thank+you+for+your+attention!" alt="Typing SVG">
 
 ###
