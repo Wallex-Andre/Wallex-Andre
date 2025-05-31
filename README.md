@@ -1,9 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGU3N21wNWl3eXh0aXUzcTIwdnd3OGRtcGliMm1tOG56a2lpNWhzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif"  />
-</div>
-
 ###
 
 <div align="left">
