@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
 
-###
-
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcxMGU4NTdtZXo0dms3MHRzZ2NvdjkwYW12cnAxOHFodGp6cmowcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
+  <img height="600" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcxMGU4NTdtZXo0dms3MHRzZ2NvdjkwYW12cnAxOHFodGp6cmowcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
 </div>
 
 ###
