@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 All my projects with IBM are available at https://github.com/Wallex-Andre/IBM--DS-AMS.git</p>
+<p align="left">- 👨‍💻 All my projects with IBM are available at https://github.com/Wallex-Andre/IBM_DS_AMS.git</p>
 
 ###
 
