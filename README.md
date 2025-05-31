@@ -1,5 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcxMGU4NTdtZXo0dms3MHRzZ2NvdjkwYW12cnAxOHFodGp6cmowcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Hello,+I'm+Wallex!;I+am+16+years+old;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
