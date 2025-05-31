@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Hello,+I'm+Wallex!;I+am+16+years+old;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
-<p align="left">- 🌱 I'm currently studying Systems Development.</p>
+<p align="left">- 🌱 I am currently studying Systems Analysis and Development.</p>
 
 ###
 
@@ -19,16 +19,16 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
 </div>
 
 ###
@@ -45,5 +45,3 @@
 ###
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&left=true&left=true&random=false&width=500&lines=Thank+you+for+your+attention!" alt="Typing SVG">
-
-###
