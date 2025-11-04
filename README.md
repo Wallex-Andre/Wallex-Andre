@@ -39,6 +39,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wallex-Andre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="gráfico de linguagens"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Wallex-Andre&show_icons=true&count_private=true&theme=github_dark" alt="gráfico de estatísticas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&layout=compact&langs_count=5&theme=github_dark" alt="gráfico de linguagens" />
 </div>
