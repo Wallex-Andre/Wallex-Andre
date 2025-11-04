@@ -47,4 +47,4 @@
   <img width="12" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF" style="transform: rotate(180deg);" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=false" />
