@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&layout=compact&langs_count=5&theme=github_dark&locale=pt-br&hide_border=false&order=2" height="150" alt="gráfico de linguagens" />
   <img width="12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wallex-Andre&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
-  <img width="12" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=false" />
