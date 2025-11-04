@@ -42,15 +42,15 @@
   <!-- Estatísticas de commits, repositórios etc -->
   <img src="https://github-readme-stats.vercel.app/api?username=Wallex-Andre&show_icons=true&count_private=true&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="gráfico de estatísticas" />
   <img width="12" />
-  
+
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&layout=compact&langs_count=5&theme=github_dark&locale=pt-br&hide_border=false&order=2" height="150" alt="gráfico de linguagens" />
   <img width="12" />
-  
-  <!-- Estatísticas de streak (dias consecutivos de contribuição) -->
+
+  <!-- GitHub Streak (mesma cor github_dark) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wallex-Andre&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
   <img width="12" />
-  
-  <!-- Estatísticas de commits por ano -->
+
+  <!-- WakaTime: atividade de codificação (mesma cor github_dark) -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Wallex-Andre&theme=dark&hide_border=false" height="150" alt="atividade WakaTime" />
 </div>
