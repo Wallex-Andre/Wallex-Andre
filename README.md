@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 👨‍💻 Todos os meus projetos com a IBM estão disponíveis em: https://github.com/Wallex-Andre/IBM_DS_AMS.git</p>
+<p align="left">- 👨‍💻 Todos os meus projetos com a IBM estão disponíveis em: https://github.com/Wallex-Andre/Portfolio-2025-2DS.git</p>
 
 ###
 
