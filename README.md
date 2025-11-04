@@ -45,6 +45,9 @@
 ![Snake animation](https://github.com/Wallex-Andre/Wallex-Andre/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Wallex-Andre&repo=Wallex-Andre&theme=react)](https://github.com/Wallex-Andre/Wallex-Andre)
+
+<img src="https://raw.githubusercontent.com/Wallex-Andre/Wallex-Andre/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=false" />
