@@ -30,6 +30,9 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+
+  <img src="https://raw.githubusercontent.com/Wallex-Andre/Wallex-Andre/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
