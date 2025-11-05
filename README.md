@@ -10,19 +10,19 @@
 
 <p align="left">-Como entrar em contato comigo:</p>
 
-<div align="left">
+<div align="left" style="background-color:#000; border:2px solid #1E90FF; padding:10px; border-radius:10px; display:inline-block;">
   <a href="https://www.linkedin.com/in/wallex-andre-adriano-dos-santos-b61a02336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 
   <a href="https://outlook.office.com/mail/deeplink/compose?to=wallex.santos@etec.sp.gov.br" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo" />
-</a>
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="outlook logo" />
+  </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wallexandre2009@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-</a>
-  
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  </a>
+
   <a href="https://www.instagram.com/wyper_lex" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
   </a>
