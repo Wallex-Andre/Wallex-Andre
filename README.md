@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">-Como entrar em contato comigo: wallex.santos@etec.sp.gov.br e wallexandre2009@gmail.com</p>
+<p align="left">-Como entrar em contato comigo:</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/wallex-andre-adriano-dos-santos-b61a02336/" target="_blank">
