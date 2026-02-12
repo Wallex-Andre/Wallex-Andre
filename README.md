@@ -1,6 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
 
-<p align="left">👋 Olá! Atualmente estou estudando <strong>Desenvolvimento de Sistemas</strong> na <strong>ETEC da Zona Leste</strong>.</p>
+<p align="left">👋 Olá! Meu nome é <strong>Wallex</strong>.</p>
+
+- 🎓 Atualmente estou no <strong>3º ano do Ensino Médio Técnico</strong>.
+- 💻 Curso: <strong>Desenvolvimento de Sistemas</strong> na ETEC da Zona Leste.
+- 🚀 Apaixonado por tecnologia e programação.
+- 📚 Sempre buscando aprender e aplicar novas habilidades em projetos práticos.
 
 ---
 
@@ -29,19 +34,19 @@
 <h2 align="left">💻 Tecnologias e Ferramentas</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
 ---
