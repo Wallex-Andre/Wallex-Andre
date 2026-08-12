@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=wallex-andre&color=A@20F0"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=wallex-andre&color=a020f0"><br>
 
 <p align="left">👋 Olá! Meu nome é <strong>Wallex</strong>.</p>
 
