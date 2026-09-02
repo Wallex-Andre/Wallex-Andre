@@ -92,6 +92,24 @@
   <sub>As linguagens são calculadas com base nos repositórios públicos e não representam necessariamente o nível de domínio.</sub>
 </p>
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Wallex-Andre/Wallex-Andre/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Wallex-Andre/Wallex-Andre/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Animação da cobrinha de contribuições"
+    src="https://raw.githubusercontent.com/Wallex-Andre/Wallex-Andre/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## 📫 Entre em contato
 
 <p align="center">
