@@ -1,65 +1,112 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=1E90FF&amp;section=header" alt="Cabeçalho azul" />
 
-<img align="right" src="https://komarev.com/ghpvc/?username=wallex-andre&color=a020f0"><br>
+<h1 align="center">Olá, eu sou o Wallex 👋</h1>
 
-<p align="left">👋 Olá! Meu nome é <strong>Wallex</strong>.</p>
+<p align="center">
+  <strong>Estudante de Desenvolvimento de Sistemas</strong><br>
+  Construindo aplicações web e mobile para transformar aprendizado em projetos reais.
+</p>
 
-- 🎓 Atualmente estou no <strong>3º ano do Ensino Médio Técnico</strong>.
-- 💻 Curso: <strong>Desenvolvimento de Sistemas</strong> na ETEC da Zona Leste.
-- 🚀 Apaixonado por tecnologia e programação.
-- 📚 Sempre buscando aprender e aplicar novas habilidades em projetos práticos.
-
----
-
-<p align="left">💬 Como entrar em contato comigo:</p>
-
-<div align="left" style="background-color:#000; border:2px solid #1E90FF; padding:10px; border-radius:10px; display:inline-block;">
-  <a href="https://www.linkedin.com/in/wallex-andre-adriano-dos-santos-b61a02336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+<p align="center">
+  <a href="https://github.com/Wallex-Andre">
+    <img src="https://komarev.com/ghpvc/?username=Wallex-Andre&amp;color=1E90FF&amp;style=for-the-badge&amp;label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
   </a>
+</p>
 
-  <a href="https://outlook.office.com/mail/deeplink/compose?to=wallex.santos@etec.sp.gov.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="outlook logo" />
+## 👨‍💻 Sobre mim
+
+- 🎓 Cursando o **3º ano do Ensino Médio Técnico**.
+- 💻 Estudante de **Desenvolvimento de Sistemas** na ETEC da Zona Leste.
+- 🌐 Desenvolvendo aplicações web com **Laravel, Next.js, React e TypeScript**.
+- 📱 Criando aplicações Android com **Kotlin, Jetpack Compose e Firebase**.
+- 🗄️ Aplicando conhecimentos de banco de dados com **MySQL e SQLite**.
+- 🚀 Sempre buscando transformar novos conhecimentos em projetos práticos.
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Principais tecnologias |
+| :--- | :--- | :--- |
+| [**Passaporte.io**](https://github.com/Wallex-Andre/passaporte-io) | Sistema web para gestão de eventos, ingressos e inscrições. | Laravel, Blade, DaisyUI e MySQL |
+| [**Chirper — Wallex**](https://github.com/Wallex-Andre/chiper-wallex) | Plataforma de comunicação com publicações, mídia, perfis, busca e autenticação. | Laravel, Tailwind CSS, DaisyUI e JavaScript |
+| [**TechTime**](https://github.com/Wallex-Andre/techtime-compose-firebase) | Aplicativo Android com catálogo visual, cadastro e autenticação de usuários. | Kotlin, Jetpack Compose e Firebase |
+| [**Portal Middleware**](https://github.com/Wallex-Andre/portal-middleware) | Projeto demonstrando o fluxo entre rota, middleware, controller e view. | PHP, Laravel e Blade |
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,php,html,css" alt="Java, Kotlin, JavaScript, TypeScript, PHP, HTML e CSS" />
+</p>
+
+### Frameworks e tecnologias web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,tailwind,bootstrap" alt="Laravel, Next.js, React, Tailwind CSS e Bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Blade" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&amp;logo=daisyui&amp;logoColor=white" alt="DaisyUI" />
+</p>
+
+### Desenvolvimento mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" alt="Android Studio, Kotlin e Firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&amp;logo=jetpackcompose&amp;logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&amp;logo=materialdesign&amp;logoColor=white" alt="Material 3" />
+</p>
+
+### Bancos de dados e serviços
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" alt="MySQL, SQLite e Firebase" />
+</p>
+
+### Ambientes e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,git,github,vscode,androidstudio,figma" alt="Node.js, npm, Git, GitHub, Visual Studio Code, Android Studio e Figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&amp;logo=xampp&amp;logoColor=white" alt="XAMPP" />
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/Wallex-Andre">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Wallex-Andre&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;theme=transparent&amp;hide_border=true&amp;title_color=1E90FF&amp;icon_color=A020F0&amp;border_radius=10" alt="Estatísticas do GitHub de Wallex" />
   </a>
-
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wallexandre2009@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  <a href="https://github.com/Wallex-Andre?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;theme=transparent&amp;hide_border=true&amp;title_color=1E90FF&amp;size_weight=0.5&amp;count_weight=0.5&amp;border_radius=10" alt="Linguagens mais utilizadas por Wallex" />
   </a>
+</p>
 
-  <a href="https://www.instagram.com/wyper_lex" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+<p align="center">
+  <sub>As linguagens são calculadas com base nos repositórios públicos e não representam necessariamente o nível de domínio.</sub>
+</p>
+
+## 📫 Entre em contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wallex-andre-adriano-dos-santos-b61a02336/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:wallex.santos@etec.sp.gov.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="E-mail institucional" />
+  </a>
+  <a href="mailto:wallexandre2009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/wyper_lex">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
----
-
-<h2 align="left">💻 Tecnologias e Ferramentas</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-</div>
-
----
-
-<h2 align="left">📊 Minhas Estatísticas no GitHub</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wallex-Andre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wallex-Andre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=footer&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=1E90FF&amp;section=footer" alt="Rodapé azul" />
