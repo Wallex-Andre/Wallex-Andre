@@ -121,7 +121,7 @@
   <a href="https://www.linkedin.com/in/wallex-andre-adriano-dos-santos-b61a02336/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:wallex.santos@etec.sp.gov.br">
+  <a href="mailto:wallex.santos@aluno.cps.sp.gov.br">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=white" alt="E-mail institucional" />
   </a>
   <a href="mailto:wallexandre2009@gmail.com">
