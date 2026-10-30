@@ -82,23 +82,26 @@
 <p align="center">
   <a href="https://github.com/Wallex-Andre">
     <img
+      height="170"
       src="https://github-readme-stats-fast.vercel.app/api?username=Wallex-Andre&amp;show_icons=true&amp;include_all_commits=true&amp;locale=pt-br&amp;bg_color=0D1117&amp;title_color=1E90FF&amp;text_color=C9D1D9&amp;icon_color=A020F0&amp;ring_color=A020F0&amp;border_color=30363D&amp;border_radius=10"
       alt="Estatísticas do GitHub de Wallex"
-      height="165"
     />
   </a>
   <a href="https://github.com/Wallex-Andre">
     <img
+      height="170"
       src="https://github-readme-streak-stats.herokuapp.com/?user=Wallex-Andre&amp;locale=pt&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;sideNums=C9D1D9&amp;sideLabels=C9D1D9&amp;dates=C9D1D9&amp;ring=A020F0&amp;fire=1E90FF&amp;currStreakLabel=1E90FF&amp;currStreakNum=1E90FF&amp;border_radius=10"
       alt="Streak de Commits de Wallex"
-      height="165"
     />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Wallex-Andre?tab=repositories">
     <img
+      height="175"
       src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Wallex-Andre&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=0D1117&amp;title_color=1E90FF&amp;text_color=C9D1D9&amp;border_color=30363D&amp;border_radius=10"
       alt="Linguagens mais utilizadas por Wallex"
-      height="165"
     />
   </a>
 </p>
